@@ -1,5 +1,5 @@
-# Maintainer: Nicola Ferru 
-# Contributor: Nicola Ferru
+# Maintainer: Nicola Ferru <nico ferru 190 at gmail dot com>
+# Contributor: Nicola Ferru <nico ferru 190 at gmail dot com>
 
 pkgname=libasecnsp11
 pkgver=1
