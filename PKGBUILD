@@ -1,4 +1,5 @@
 # Maintainer: Giovanni Scafora <giovanni@archlinux.org>
+# Maintainer: Nicola Ferrru <nicoferru centonovanta at gmail dot com>
 # Contributor: Matteo Mattei <matteo.mattei@gmail.com>
 
 pkgname=libasecnsp11
