@@ -2,9 +2,9 @@
 In questo repository sono presenti le instruzioni aggiornate per installare il driver per lo standard della tessera sanitaria athena per l'utilizzo con un lettore smartcard, per il TS-CNS.
 ## Come procedere?
 prima di installare il pacchetto è necessario installare i segueti pacchetti:
-- community/pcsc-tools;
-- community/pcsclite;
-- community/pcsc-perl.
+- community/**pcsc-tools**;
+- community/**pcsclite**;
+- community/**pcsc-perl**.
 
 Per installarli basta digitare il seguiente comando
 ```
