@@ -3,7 +3,7 @@
 
 pkgname=libasecnsp11
 pkgver=1
-pkgrel=3
+pkgrel=4
 pkgdesc="Software for Carta Nazionale dei Servizi"
 arch=('i686' 'x86_64')
 url="https://tscns.regione.sardegna.it/"
