@@ -21,7 +21,7 @@ A questo punto è necessario clonare il repo e accedere alla directory con il co
 git clone https://github.com/NF02/libasecnsp11-for-archlinux.git && cd libasecnsp11-for-archlinux
 ```
 poi per avviare l'installazione con:
-```
+``` sh
 makepkg -si
 ```
 *Ovviamente per installare il pacchetto vi verrà richiesta la password di root e quindi i privilegi amministrativi.*
