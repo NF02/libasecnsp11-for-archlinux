@@ -4,7 +4,7 @@
 pkgname=libACR38Driver
 pkgver=2008
 pkgrel=1009
-pkgdesc="Driver miniLector EVO"
+pkgdesc="Driver miniLector EVO smartcard reader"
 arch=('i686' 'x86_64')
 url="http://resources.bit4id.com/"
 license=('GPL')
