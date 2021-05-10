@@ -6,12 +6,17 @@ prima di installare il pacchetto è necessario installare i segueti pacchetti:
 - community/**pcsclite**;
 - community/**pcsc-perl**;
 - community/**ccid**;
-- community/**opensc**.
+- community/**opensc**. 
 
 Per installarli basta digitare il seguiente comando
-```
+```sh
 sudo pacman -S pcsc-tools pcsclite pcsc-perl ccid opensc
 ```
+### Attevare il demone pcscd
+```sh
+ sudo systemctl start pcscd.service && sudo systemctl enable pcscd.service
+```
+
 ### Driver del lettore miniLector EVO
 Il lettore utilizzato nella regione Sardegna è il miniLectior EVO e il driver è disponibile sul sito del produttore, esso è accessibile cliccando <a href="https://www.bit4id.com/it/lettore-di-smart-card-minilector-evo/">qui</a> o nel repo è presente il PKGBUILD all'interno della cartella **libACR38Driver**.
 
