@@ -1,0 +1,13 @@
+pkgbase = libasecnsp11
+	pkgdesc = Software for Carta Nazionale dei Servizi
+	pkgver = 1
+	pkgrel = 4
+	url = https://tscns.regione.sardegna.it/
+	arch = i686
+	arch = x86_64
+	license = GPL
+	depends = pcsclite
+	source = https://tscns.regione.sardegna.it/sites/default/files/2017-11/linux_driver_Athena.zip
+	md5sums = 26dee77a9e75088143cc62a3fbf8017c
+
+pkgname = libasecnsp11
