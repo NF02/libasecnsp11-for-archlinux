@@ -1,6 +1,4 @@
-# Maintainer: NFVBlog aka Nicola Ferru
-# Contributor: NFVBlog aka Nicola Ferru
-
+# Maintainer: NFVBlog <ask dot nfvblog at outlook dot it>
 pkgname=libACR38Driver
 pkgver=2008
 pkgrel=1009

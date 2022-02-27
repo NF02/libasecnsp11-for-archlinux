@@ -1,5 +1,4 @@
-# Maintainer: NFVBlog aka Nicola Ferru
-# Contributor: NFVBlog aka Nicola Ferru
+# Maintainer: NFVBlog <ask dot nfvblog at outlook dot it>
 
 pkgname=libasecnsp11
 pkgver=1
