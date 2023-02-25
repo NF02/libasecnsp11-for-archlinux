@@ -18,7 +18,7 @@ sudo pacman -S pcsc-tools pcsclite pcsc-perl ccid opensc
 ```
 
 ### Driver del lettore miniLector EVO
-Il lettore utilizzato nella regione Sardegna è il miniLectior EVO e il driver è disponibile sul sito del produttore, esso è accessibile cliccando <a href="https://www.bit4id.com/it/lettore-di-smart-card-minilector-evo/">qui</a> o nel repo è presente il PKGBUILD all'interno della cartella **libACR38Driver**.
+Il lettore utilizzato nella regione Sardegna è il miniLectior EVO e il driver è disponibile sul sito del produttore, esso è accessibile cliccando <a href="https://support.bit4id.com/#!/it/product/miniLector_EVO">qui</a> o nel repo è presente il PKGBUILD all'interno della cartella **libACR38Driver**.
 
 Ricordo che se avete il lettore di smartcard integrato all'interno del vostro dispositivo non sarà necessario adoperare il suddetto lettore USB e quindi non ha senso installare il driver in questione, dovrete semplicemente installare la libreria **libasecnsp11** e seguire gli altri punti della guida.
 
